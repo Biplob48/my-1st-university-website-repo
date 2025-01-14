@@ -40,3 +40,14 @@ img {
     padding: 0;
     margin: cover;
 }
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+footer{
+
+    text-align: center;
+    font-weight: bold;color:brown;
+}
