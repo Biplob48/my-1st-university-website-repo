@@ -3,14 +3,9 @@ body{
     background-image: url('../images/uni\ 2.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 800px;
+    background-size: 1000px;
 }
-.language {
-    color:green;
-    font-size: large;
-    font-style:italic;
-    font-weight: bold;
-}
+
 .uni{
     color: darkred;
     background-color: oldlace;
