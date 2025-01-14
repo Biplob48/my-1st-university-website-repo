@@ -5,3 +5,38 @@ body{
     background-position: center;
     background-size: 800px;
 }
+.language {
+    color:green;
+    font-size: large;
+    font-style:italic;
+    font-weight: bold;
+}
+.uni{
+    color: darkred;
+    background-color: oldlace;
+}
+
+#fav{
+    color:red;
+    font-weight: bold;
+}
+#info {
+   font-weight: 800;
+    color: brown;
+}
+
+img {
+    border: 8px solid darkred;
+    border-radius: 20px;
+    display position: left;  
+}
+
+.log {
+    color: purple;
+    font-weight: bold;
+}
+
+*{
+    padding: 0;
+    margin: cover;
+}
