@@ -47,10 +47,9 @@ footer{
     font-weight: bold;color:brown;
 }
 
-.data{
+div{
 
     font-weight: bolder;
-    margin-right: 50px;
-    display: inline;
+    display:block;
 
 }
