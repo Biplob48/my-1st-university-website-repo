@@ -46,3 +46,11 @@ footer{
     text-align: center;
     font-weight: bold;color:brown;
 }
+
+.data{
+
+    font-weight: bolder;
+    margin-right: 50px;
+    display: inline;
+
+}
